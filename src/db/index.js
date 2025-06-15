@@ -12,8 +12,8 @@ try{
     console.log("MONGOOSE connection FAILED ", error);
     process.exit(1)
     
-}default connectDB
+}
 
 }
 
-export 
+export default connectDB 
